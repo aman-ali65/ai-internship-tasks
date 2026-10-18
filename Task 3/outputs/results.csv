@@ -1,0 +1,7 @@
+grid,algorithm,steps,expanded_nodes,expansion_density_%,runtime_ms
+Grid 1 (10% obstacles),Dijkstra,38,359,100.0,11.128
+Grid 1 (10% obstacles),A*,38,95,26.5,1.371
+Grid 2 (20% obstacles),Dijkstra,38,319,99.7,13.939
+Grid 2 (20% obstacles),A*,38,51,15.9,2.305
+Grid 3 (30% obstacles),Dijkstra,38,292,98.3,4.729
+Grid 3 (30% obstacles),A*,38,57,19.2,1.06
